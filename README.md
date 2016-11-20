@@ -3,8 +3,8 @@
 严厉的Mr.J的编译原理课程源码-语义分析。
 
 关于语义分析和语法分析的内容见博客：
-- [编写词法分析程序](http://www.lijundong.com/2015/05/12/%E7%BC%96%E5%86%99%E8%AF%8D%E6%B3%95%E5%88%86%E6%9E%90%E7%A8%8B%E5%BA%8F/)
-- [编写语法分析程序](http://www.lijundong.com/2015/06/12/%E7%BC%96%E5%86%99%E8%AF%AD%E6%B3%95%E5%88%86%E6%9E%90%E7%A8%8B%E5%BA%8F/)
+- [编写词法分析程序](http://jundong.coding.me/2015/05/12/Lexical%20analysis/)
+- [编写语法分析程序](http://jundong.coding.me/2015/06/12/Syntactic%20analysis/)
 
 ## 更多源码
 - [词法分析](https://github.com/lijundong/Lexical-analysis)
